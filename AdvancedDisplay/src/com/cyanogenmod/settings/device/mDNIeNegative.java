@@ -25,8 +25,6 @@ import android.support.v7.preference.Preference.OnPreferenceChangeListener;
 import android.support.v7.preference.PreferenceManager;
 import android.util.AttributeSet;
 
-import org.cyanogenmod.internal.util.FileUtils;
-
 public class mDNIeNegative extends ListPreference implements OnPreferenceChangeListener {
 
     private static String FILE = null;

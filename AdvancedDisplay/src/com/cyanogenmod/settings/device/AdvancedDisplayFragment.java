@@ -22,8 +22,6 @@ import android.support.v14.preference.PreferenceFragment;
 
 import com.cyanogenmod.settings.device.R;
 
-import org.cyanogenmod.internal.util.FileUtils;
-
 public class AdvancedDisplayFragment extends PreferenceFragment {
     private mDNIeScenario mmDNIeScenario;
     private mDNIeNegative mmDNIeNegative;
